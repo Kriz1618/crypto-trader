@@ -30,3 +30,6 @@ npm run build
 
 ### Netliy
 [Link](https://tangerine-bunny-6ac07f.netlify.app/)
+
+### GitPages
+[Link](https://kriz1618.github.io/crypto-trader/)
