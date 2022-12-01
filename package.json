@@ -1,0 +1,18 @@
+{
+  "name": "directives",
+  "version": "0.0.0",
+  "description": "Based on https://www.udemy.com/course/vue-3-desde-cero",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.41"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.1.2",
+    "vite": "^3.1.8",
+    "vite-plugin-pwa": "^0.13.3"
+  }
+}
